@@ -1,0 +1,21 @@
+@media only screen and (min-width: 300px) and (max-width: 499px) {
+  header nav div a img {
+    width: 140px;
+  }
+}
+@media only screen and (min-width: 500px) and (max-width: 991px) {
+  header nav div a img {
+    width: 180px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 2701px) {
+  header nav div a img {
+    width: 200px;
+  }
+}
+header nav {
+  background-color: #e9e0da;
+  border-bottom: 1px solid black;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
